@@ -1,13 +1,13 @@
 div{
   background-color:red; 
-  font-color:white;
+  color:white;
   font-size:32;
   font-align:center;
   font-weight:700
 }
 p{
   background-color:green;
-  font-color:white;
+  color:white;
   font-size:18;
 }
 button{
