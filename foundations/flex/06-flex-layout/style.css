@@ -18,6 +18,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  margin-top: 15px;
+  padding:7px;
 }
 
 input {
